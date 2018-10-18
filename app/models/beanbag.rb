@@ -1,0 +1,2 @@
+class Beanbag < ApplicationRecord
+end
